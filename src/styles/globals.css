@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+	*,
+	*::before,
+	*::after {
+		-webkit-tap-highlight-color: transparent;
+	}
+
+	body {
+		@apply no-scrollbar bg-main text-black antialiased before:fixed before:-left-1/2 before:-top-full before:h-[300%] before:w-[300%] before:animate-grain before:bg-[url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/paper-pattern.png')] before:opacity-30;
+	}
+}
+
+@layer utilities {
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	.no-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* Hide scrollbar for IE, Edge and Firefox */
+	.no-scrollbar {
+		-ms-overflow-style: none; /* IE and Edge */
+		scrollbar-width: none; /* Firefox */
+	}
+}

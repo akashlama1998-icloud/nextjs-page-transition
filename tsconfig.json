@@ -16,6 +16,12 @@
 		"verbatimModuleSyntax": true,
 		"baseUrl": ".",
 		"paths": {
+			"$components/*": ["./src/lib/components/*"],
+			"$constants/*": ["./src/lib/constants/*"],
+			"$contexts/*": ["./src/lib/contexts/*"],
+			"$data/*": ["./src/lib/data/*"],
+			"$hooks/*": ["./src/lib/hooks/*"],
+			"$types/*": ["./src/lib/types/*"],
 			"$styles/*": ["./src/styles/*"]
 		}
 	},

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Anjita Lama",
+		"photo": {
+			"caption": "A portrait of a striking Indian model with captivating features and a radiant smile.",
+			"formats": {
+				"jpg": "/models/anjita_lama/anjita_lama_2420x3388.jpg",
+				"webp": "/models/anjita_lama/anjita_lama_2420x3388.webp",
+				"avif": "/models/anjita_lama/anjita_lama_2420x3388.avif"
+			}
+		},
+		"handle": "anjita_lama",
+		"content": {
+			"description": "Anjita Lama, hailing from the picturesque landscapes of India, is a rising star in the world of modeling. With her captivating looks and graceful presence, she's taking the fashion industry by storm. Anjita's journey began in the charming city of Siliguri, where she was discovered by a renowned talent scout. Her unique features and magnetic charm set her apart, making her a sought-after face on both runways and magazine covers. Anjita's international appeal and dedication to her craft are propelling her to new heights in the fashion world.",
+			"title": "Exotic Beauty: Meet Anjita Lama"
+		},
+		"location": { "_latitude": 48.8566, "_longitude": 2.3522 },
+		"id": "iij81GjWWlb5wsYUi4oV"
+	},
+	{
+		"name": "Isabella Johnson",
+		"photo": {
+			"caption": "Isabella Johnson - A glamorous Los Angeles model with impeccable style and elegance.",
+			"formats": {
+				"jpg": "/models/bella_johnson/bella_johnson_2420x3388.jpg",
+				"webp": "/models/bella_johnson/bella_johnson_2420x3388.webp",
+				"avif": "/models/bella_johnson/bella_johnson_2420x3388.avif"
+			}
+		},
+		"handle": "bella_johnson",
+		"location": { "_latitude": 34.0522, "_longitude": -118.2437 },
+		"content": {
+			"description": "Isabella Johnson, known in the fashion world as Bella_Model, is the embodiment of elegance and sophistication. Hailing from the vibrant city of Los Angeles, California, Bella_Model has graced the covers of top fashion magazines and walked the runways of prestigious fashion shows. Her striking features and impeccable style have made her a fashion icon. With a keen eye for trends and a passion for artistry, Isabella continues to inspire and redefine the standards of beauty in the industry.",
+			"title": "Elegance Personified: Isabella Johnson"
+		},
+		"id": "Iff7JrJMzeYQHongpPU2"
+	},
+	{
+		"name": "Olivia Smith",
+		"photo": {
+			"caption": "Olivia Smith - London's gem, a British model known for her natural beauty and down-to-earth personality.",
+			"formats": {
+				"jpg": "/models/olivia_smith/olivia_smith_2420x3388.jpg",
+				"webp": "/models/olivia_smith/olivia_smith_2420x3388.webp",
+				"avif": "/models/olivia_smith/olivia_smith_2420x3388.avif"
+			}
+		},
+		"handle": "olivia_smith",
+		"location": { "_latitude": 51.5074, "_longitude": -0.1278 },
+		"content": {
+			"description": "Olivia Smith, known to her admirers as OliGlam, is a true gem of London's modeling scene. Born and raised in the heart of the United Kingdom, Olivia's career took flight against the backdrop of the iconic city of London. Her classic British elegance and modern allure have made her a beloved figure in the fashion world. Olivia's modeling journey is marked by her commitment to empowering women and promoting self-confidence. With her natural beauty and down-to-earth personality, she's not just a model; she's an inspiration to many.",
+			"title": "London's Gem: Olivia Smith"
+		},
+		"id": "QLuP9mirUA79XbKhfqla"
+	},
+	{
+		"name": "Sophia Rodriguez",
+		"photo": {
+			"caption": "Sophia Rodriguez - A sophisticated New York City model radiating timeless beauty and charm.",
+			"formats": {
+				"jpg": "/models/sophia_rodriguez/sophia_rodriguez_2420x3388.jpg",
+				"webp": "/models/sophia_rodriguez/sophia_rodriguez_2420x3388.webp",
+				"avif": "/models/sophia_rodriguez/sophia_rodriguez_2420x3388.avif"
+			}
+		},
+		"handle": "sophia_rodriguez",
+		"location": { "_latitude": 40.7128, "_longitude": -74.006 },
+		"content": {
+			"description": "Meet Sophia Rodriguez, the epitome of sophistication and grace. Sophia, who goes by the handle SophisticatedSophia, calls the bustling streets of New York City her home. Her modeling journey began against the backdrop of the city that never sleeps, and she quickly became a prominent figure in the fashion scene. Known for her versatility and timeless beauty, Sophia has collaborated with top designers and photographers worldwide. With her unique charm and dedication to her craft, she continues to leave an indelible mark on the industry.",
+			"title": "Sophisticated Sophia: Redefining Glamour"
+		},
+		"id": "iwGu4awwJGuTW8C1g4Gk"
+	}
+]
